@@ -71,6 +71,14 @@ Think of MCP like a USB-C port for AI applications:
 |------------|-------------|----------|-------|
 | [india-stack-mcp](https://github.com/openindia/india-stack-mcp) | Interfaces to various India Stack services (proof-of-concept) | JavaScript | 0 |
 
+### Cloud Infrastructure
+
+Indian-built cloud and developer platforms exposed over MCP.
+
+| Repository | Description | Language | Stars |
+|------------|-------------|----------|-------|
+| [scalix-cloud-mcp](https://github.com/scalixworld/scalix-cloud-mcp) | Cloud platform as MCP: Postgres, containers, functions, object storage, auth, DNS and persistent Linux machines. 50 tools, one API key. Remote Streamable HTTP, nothing to install | - | 2 |
+
 ## Getting Started
 
 To use these MCP servers, you'll need an MCP-compatible client such as:
