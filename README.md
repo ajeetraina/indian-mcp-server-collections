@@ -45,6 +45,7 @@ Think of MCP like a USB-C port for AI applications:
 |------------|-------------|----------|-------|
 | [Indian-Stock-Exchange-MCP](https://github.com/anuragkrishna/Indian-Stock-Exchange-MCP) | Access to Indian Stock Exchange data | TypeScript | 0 |
 | [stock-screener-mcp](https://github.com/saisrikark/stock-screener-mcp) | Browse and screen India's stock market | JavaScript | 0 |
+| [nse-bse-indian-stock-market-data-mcp](https://github.com/Tapetide-hq/nse-bse-indian-stock-market-data-mcp) | Tapetide MCP: quotes, financials, shareholding, screener, FII/DII flows and filings for ~8,200 NSE and BSE stocks | TypeScript | 134 |
 
 #### Payment Systems
 | Repository | Description | Language | Stars |
