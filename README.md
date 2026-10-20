@@ -52,6 +52,17 @@ Think of MCP like a USB-C port for AI applications:
 |------------|-------------|----------|-------|
 | [UPI-Payment-MCP](https://github.com/pranavpandey1998official/upi-payment-mcp) | Interact with UPI payment systems (experimental) | TypeScript | 0 |
 
+#### Company, GST and KYB Data
+| Repository | Description | Language | Stars |
+|------------|-------------|----------|-------|
+| [indiacos-mcp-server](https://github.com/rchtjn2-gif/indiacos-mcp-server) | IndiaCos: Indian company, LLP, GST, PAN, director and court-case records for KYB and vendor checks. Remote Streamable HTTP, OAuth | - | 0 |
+| [datagalactica-mcp-server](https://github.com/rchtjn2-gif/datagalactica-mcp-server) | Data Galactica: resolve a company or person (CIN, LLPIN, LEI and more) to one permanent ID for KYB and due diligence. Remote Streamable HTTP, OAuth | - | 0 |
+
+#### Insurance
+| Repository | Description | Language | Stars |
+|------------|-------------|----------|-------|
+| [IndiaInsurances](https://indiainsurances.com/for-agents) | Every Indian insurance policy read clause by clause, with verbatim quotes. Remote Streamable HTTP (`https://indiainsurances.com/mcp`), free, no key | - | - |
+
 ### Healthcare
 
 | Repository | Description | Language | Stars |
@@ -67,10 +78,32 @@ Think of MCP like a USB-C port for AI applications:
 | [india-economic-intelligence](https://github.com/adhishthite/india-economic-intelligence) | AI-powered economic analyst using live government data via MoSPI MCP server | TypeScript | 0 |
 | [mcp-india-tenders](https://github.com/switchr24/mcp-india-tenders) | Search and analyze Indian government tenders (CPPP, eProc Rajasthan, Defence) | - | 1 |
 
+#### Courts and Legal Data
+| Repository | Description | Language | Stars |
+|------------|-------------|----------|-------|
+| [ecourtsindia-mcp-server](https://github.com/rchtjn2-gif/ecourtsindia-mcp-server) | eCourtsIndia: Indian court cases, orders, cause lists and statutes, Supreme Court to district courts and tribunals. Remote Streamable HTTP, OAuth | - | 0 |
+
+#### Land and Property Records
+| Repository | Description | Language | Stars |
+|------------|-------------|----------|-------|
+| [India Property Register](https://indiapropertyregister.com/api) | India's land register for AI agents: every state, district, tehsil and village, with land-record sources. Remote Streamable HTTP (`https://indiapropertyregister.com/mcp`), OAuth | - | - |
+
 #### India Stack and Digital Infrastructure
 | Repository | Description | Language | Stars |
 |------------|-------------|----------|-------|
 | [india-stack-mcp](https://github.com/openindia/india-stack-mcp) | Interfaces to various India Stack services (proof-of-concept) | JavaScript | 0 |
+
+### Jobs and Careers
+
+| Repository | Description | Language | Stars |
+|------------|-------------|----------|-------|
+| [youth4work-mcp-server](https://github.com/rchtjn2-gif/youth4work-mcp-server) | Youth4work: Indian jobs, assessed talent and skill tests; public read-only server needs no sign-in. Remote Streamable HTTP | - | 0 |
+
+### Food and Dining
+
+| Repository | Description | Language | Stars |
+|------------|-------------|----------|-------|
+| [indiarestros-mcp-server](https://github.com/rchtjn2-gif/indiarestros-mcp-server) | IndiaRestros: Indian restaurants, menus with rupee prices, dish search and timings. Remote Streamable HTTP, free, no key | - | 0 |
 
 ### Cloud Infrastructure
 
